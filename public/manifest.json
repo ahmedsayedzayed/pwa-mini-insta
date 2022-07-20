@@ -1,0 +1,45 @@
+{
+    "name": "Instagram PWA",
+    "short_name": "INSTA",
+    "icons": [
+        {
+            "src": "/src/images/icons/app-icon-48x48.png",
+            "type": "img/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/src/images/icons/app-icon-96x96.png",
+            "type": "img/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/src/images/icons/app-icon-192x192.png",
+            "type": "img/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/src/images/icons/app-icon-256x256.png",
+            "type": "img/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/src/images/icons/app-icon-384x384.png",
+            "type": "img/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/src/images/icons/app-icon-512x512.png",
+            "type": "img/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientaion": "portrait-primary",
+    "background_color": "#FFF",
+    "theme_color": "#3f51b5",
+    "description": "A simple Insta Clone Implementing A lot Of PWA Features",
+    "dir": "ltr",
+    "lang": "en-US"
+}
